@@ -9,7 +9,7 @@
     Developer of a C library capable of encrypting and decrypting data with the best security standards collaborating with expert cryptographers.
     Developer of a REST API in Flask capable of encrypting and decrypting on demand. Tested and deployed multiple cloud solutions such as on AWS and GCloud together with some of the best practices of web servers.
 
-- layout: left
+- layout: right
   company: Altran Innovation
   link: altran.com
   job_title: Project engineering intern
@@ -29,7 +29,7 @@
   description: | # this will include new lines to allow paragraphs
     Collaborator in a project about exploration robots that use Computer Vision to compute its distance in the space by performing Simultaneous Location and Mapping in the Robot Operating System Environment. Grade 9.5/10
 
-- layout: left
+- layout: right
   company: e-Tech Racing Formula Student Team
   link: etechracing.es/en/
   job_title: Collaborator – Bachelor Thesis
