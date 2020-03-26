@@ -6,7 +6,7 @@
   description: | # this will include new lines to allow paragraphs
     Parentesi is a platform that uses AI to match you to relevant people for 1:1 meetings. It curates relevant connections to assist you in your professional goals.
 
-    Stack used: <mark>ReactJS</mark>, <mark>GraphQL</mark>, <mark>Express</mark> and <mark>PyTorch</mark>
+    Stack used: <mark>ReactJS</mark> <mark>GraphQL</mark> <mark>Express</mark> <mark>PyTorch</mark>
 - layout: top-middle
   name: LoopAround
   link: looparound.io
@@ -15,7 +15,7 @@
   description: | # this will include new lines to allow paragraphs
     Whilst working in Looparound we applied some of the newest techniques in Computer Vision as well as learning how to properly construct an efiicient rapid deployment pipeline.
 
-    Stack used: <mark>ReactJS</mark>, <mark>GraphQL</mark>, <mark>Flask</mark> and <mark>TensorFlow</mark>
+    Stack used: <mark>ReactJS</mark> <mark>GraphQL</mark> <mark>Flask</mark> <mark>TensorFlow</mark>
 - layout: top-middle
   name: Development of an exploration system for mobile robots
   link: upcommons.upc.edu/handle/2117/171872
@@ -24,4 +24,4 @@
   description: | # this will include new lines to allow paragraphs
     During my bachelor thesis, I developed a computer vision-based system in which, throgugh a camera attached to a mobile robot that focuses on the roof, the system is able to describe the movememnt and relative poisition of the device.
 
-    Stack used: <mark>MATLAB</mark> and <mark>ROS</mark>
+    Stack used: <mark>MATLAB</mark> <mark>ROS</mark>
