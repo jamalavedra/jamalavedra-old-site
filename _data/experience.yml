@@ -4,7 +4,7 @@
   job_title: Software developer
   dates: November 2018 - August 2019
   quote: >
-   At CYBERCRYPT, I took part in consultancy projects in data protection and in the development of the company’s first MVP.
+    At CYBERCRYPT, I took part in consultancy projects in data protection and in the development of the company’s first MVP.
   description: | # this will include new lines to allow paragraphs
     Developer of a C library capable of encrypting and decrypting data with the best security standards collaborating with expert cryptographers.
     Developer of a REST API in Flask capable of encrypting and decrypting on demand. Tested and deployed multiple cloud solutions such as on AWS and GCloud together with some of the best practices of web servers.
@@ -15,7 +15,7 @@
   job_title: Project engineering intern
   dates: February 2018 - August 2018
   quote: >
-   R&D department in development of electronic architectures for autonomous driving systems.
+    R&D department in development of electronic architectures for autonomous driving systems.
   description: | # this will include new lines to allow paragraphs
     System development and sensors integration.
     Development of the electronic architecture for the control of the computer vision systems and management of the sensors/actuators.
@@ -35,6 +35,6 @@
   job_title: Collaborator – Bachelor Thesis
   dates: September 2015 - August 2017
   quote: >
-   Sensing different parts of a Formula Student car to control the actions of the powertrain system to optimize the responses. Participated in 3 international competitions (2 in Spain and 1 in the Czech Republic).
+    Sensing different parts of a Formula Student car to control the actions of the powertrain system to optimize the responses. Participated in 3 international competitions (2 in Spain and 1 in the Czech Republic).
   description: | # this will include new lines to allow paragraphs
     Contributed in the creation of the electronic system including the creation of self-developed OPEN CAN communication as well as PCBs and coding.

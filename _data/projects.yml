@@ -1,8 +1,20 @@
 - layout: top-middle
+  name: Parentesi
+  link: parentesi.xyz
+  quote: >
+    A platform that helps you grow your offline professional network through smart introductions.
+  description: | # this will include new lines to allow paragraphs
+    Parentesi is a platform that uses AI to match you to relevant people for 1:1 meetings. It curates relevant connections to assist you in your professional goals.
   name: LoopAround
   link: looparound.io
-  github: sproogen/resume-theme
   quote: >
     Landing page for a project of Damage Detection as a Service
   description: | # this will include new lines to allow paragraphs
     Whilst working in looparound we're applying some of the newest techniques in Computer Vision as well as learning how to properly construct an efiicient rapid deployment pipeline.
+- layout: top-middle
+  name: Development of an exploration system for mobile robots
+  link: upcommons.upc.edu/handle/2117/171872
+  quote: >
+    Bachelor thesis
+  description: | # this will include new lines to allow paragraphs
+    During my bachelor thesis, I developed a computer vision-based system in which, throgugh a camera attached to a mobile robot that focuses on the roof, the system is able to describe the movememnt and relative poisition of the device.
