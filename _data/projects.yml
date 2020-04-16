@@ -1,10 +1,10 @@
 - layout: top-middle
-  name: Parentesi
-  link: parentesi.xyz
+  name: Peerpull
+  link: peerpull.com
   quote: >
     A platform that helps you grow your offline professional network through smart introductions.
   description: | # this will include new lines to allow paragraphs
-    Parentesi is a platform that uses AI to match you to relevant people for 1:1 meetings. It curates relevant connections to assist you in your professional goals.
+    Peerpull is a platform that uses AI to match you to relevant people for 1:1 meetings. It curates relevant connections to assist you in your professional goals.
 
     Stack used: <mark>ReactJS</mark> <mark>GraphQL</mark> <mark>Express</mark> <mark>PyTorch</mark>
 - layout: top-middle
