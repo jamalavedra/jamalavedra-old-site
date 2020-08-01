@@ -1,3 +1,14 @@
+- layout: right
+  company: PeerPull
+  link: peerpull.com
+  job_title: Co-Founder
+  dates: June 2020 -
+  quote: >
+    A platform that helps you grow your offline professional network through smart introductions.
+  description: | # this will include new lines to allow paragraphs
+    Peerpull is a platform that uses AI to match you to relevant people for 1:1 meetings. It curates relevant connections to assist you in your professional goals.
+    Full-stack developer of the platform.
+
 - layout: left
   company: CYBERCRYPT A/S
   link: cyber-crypt.com

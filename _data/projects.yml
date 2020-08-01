@@ -1,12 +1,12 @@
 - layout: top-middle
-  name: Peerpull
-  link: peerpull.com
+  name: Development of feature-based smart virtual sensors
+  link: https://github.com/jamalavedra/Development_of_feature_based_smart_virtual_sensors
   quote: >
-    A platform that helps you grow your offline professional network through smart introductions.
+    CS Master thesis
   description: | # this will include new lines to allow paragraphs
-    Peerpull is a platform that uses AI to match you to relevant people for 1:1 meetings. It curates relevant connections to assist you in your professional goals.
+    This thesis proposes an application of convolutional feature points as smart virtual sensors. The feature descriptors are formed using the feature maps of one of the layers of a VGG-16 network pre-trained on Imagenet.From the extracted and matched features, information is obtained from each of them to create a data-set that describes the sequence of frames under consideration.
 
-    Stack used: <mark>ReactJS</mark> <mark>GraphQL</mark> <mark>Express</mark> <mark>PyTorch</mark>
+    Stack used: <mark>Python</mark> <mark>PyTorch</mark>
 - layout: top-middle
   name: LoopAround
   link: looparound.io
