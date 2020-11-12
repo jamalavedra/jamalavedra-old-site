@@ -8,7 +8,7 @@
   description: | # this will include new lines to allow paragraphs
     Onsite.fun offers the best team-building online activities. They have been carefuly curated so you don't have to waste time wondering if they are suitable for remote teams.
 
-- layout: left
+- layout: right
   company: CYBERCRYPT A/S
   link: cyber-crypt.com
   job_title: Software developer
@@ -31,7 +31,7 @@
     Development of the electronic architecture for the control of the computer vision systems and management of the sensors/actuators.
     Test and validation of the system in prototypes and vehicle.
 
-- layout: left
+- layout: right
   company: IRI – Institut de Robòtica i Informàtica Industrial, CSIC- UPC
   link: iri.upc.edu
   job_title: Collaborator – Bachelor Thesis

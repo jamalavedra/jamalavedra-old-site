@@ -1,4 +1,4 @@
-- layout: left
+- layout: top-middle
   name: PeerPull
   link: peerpull.com
   quote: >
@@ -8,7 +8,7 @@
     You can also interact with others by joining the rooms other peers create.
 
     Stack used: <mark>ReactJS</mark> <mark>GraphQL</mark> <mark>AWS S3</mark> <mark>GCP</mark><mark>JitsiMeet</mark>
-- layout: left
+- layout: top-middle
   name: Development of feature-based smart virtual sensors
   link: https://github.com/jamalavedra/Development_of_feature_based_smart_virtual_sensors
   quote: >
@@ -17,7 +17,7 @@
     This thesis proposes an application of convolutional feature points as smart virtual sensors. The feature descriptors are formed using the feature maps of one of the layers of a VGG-16 network pre-trained on Imagenet.From the extracted and matched features, information is obtained from each of them to create a data-set that describes the sequence of frames under consideration.
 
     Stack used: <mark>Python</mark> <mark>PyTorch</mark>
-- layout: left
+- layout: top-middle
   name: LoopAround
   quote: >
     Landing page for a project of Damage Detection as a Service
@@ -25,7 +25,7 @@
     Whilst working in Looparound we applied some of the newest techniques in Computer Vision as well as learning how to properly construct an efiicient rapid deployment pipeline.
 
     Stack used: <mark>ReactJS</mark> <mark>GraphQL</mark> <mark>Flask</mark> <mark>TensorFlow</mark>
-- layout: left
+- layout: top-middle
   name: Development of an exploration system for mobile robots
   link: upcommons.upc.edu/handle/2117/171872
   quote: >
