@@ -1,13 +1,12 @@
-- layout: right
-  company: PeerPull
-  link: peerpull.com
+- layout: left
+  company: Onsite.fun
+  link: onsite.fun
   job_title: Co-Founder
-  dates: June 2020 -
+  dates: October 2020 -
   quote: >
-    Digital co-working space where entrepreneurs, freelancers and digital creators gather and recreate the working atmosphere.
+    Connecting teams via curated virtual activities
   description: | # this will include new lines to allow paragraphs
-    Peerpull is a platform for entrepreneurs and digital makers to connect. You can connect with people that have gone through similar doubts or issues by simply creating a room and joining at the scheduled time. 
-    You can also interact with others by joining the rooms other peers create.
+    Onsite.fun offers the best team-building online activities. They have been carefuly curated so you don't have to waste time wondering if they are suitable for remote teams.
 
 - layout: left
   company: CYBERCRYPT A/S
@@ -20,7 +19,7 @@
     Developer of a C library capable of encrypting and decrypting data with the best security standards collaborating with expert cryptographers.
     Developer of a REST API in Flask capable of encrypting and decrypting on demand. Tested and deployed multiple cloud solutions such as on AWS and GCloud together with some of the best practices of web servers.
 
-- layout: right
+- layout: left
   company: Altran Innovation
   link: altran.com
   job_title: Project engineering intern
@@ -40,10 +39,10 @@
   description: | # this will include new lines to allow paragraphs
     Collaborator in a project about exploration robots that use Computer Vision to compute its distance in the space by performing Simultaneous Location and Mapping in the Robot Operating System Environment. Grade 9.5/10
 
-- layout: right
+-layout: left
   company: e-Tech Racing Formula Student Team
   link: etechracing.es/en/
-  job_title: Collaborator – Bachelor Thesis
+  job_title: Electronic engineer
   dates: September 2015 - August 2017
   quote: >
     Sensing different parts of a Formula Student car to control the actions of the powertrain system to optimize the responses. Participated in 3 international competitions (2 in Spain and 1 in the Czech Republic).
