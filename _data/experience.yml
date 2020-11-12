@@ -39,7 +39,7 @@
   description: | # this will include new lines to allow paragraphs
     Collaborator in a project about exploration robots that use Computer Vision to compute its distance in the space by performing Simultaneous Location and Mapping in the Robot Operating System Environment. Grade 9.5/10
 
--layout: left
+- layout: left
   company: e-Tech Racing Formula Student Team
   link: etechracing.es/en/
   job_title: Electronic engineer
