@@ -1,12 +1,12 @@
 # Site
 repository: jamalavedra/jamalavedra.github.io
-# favicon: images/favicon.ico
+favicon: images/favicon.ico
 
 # Personal info
 name: Jaume Alavedra Mas
 title: Software developer
 email: jamalavedra@gmail.com
-blog: blog.jamalavedra.me
+website: blog.jamalavedra.me
 
 # Social links
 twitter_username: jamalavedra
