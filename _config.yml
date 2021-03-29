@@ -1,12 +1,14 @@
 # Site
-repository: jamalavedra/jamalavedra.github.io
-# favicon: images/favicon.ico
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
 name: Jaume Alavedra Mas
-title: Software developer
+title: Software & electronics engineer
 email: jamalavedra@gmail.com
-website: jamalavedra.me
+website: blog.jamalavedra.me
+
+darkmode: true
 
 # Social links
 twitter_username: jamalavedra
@@ -20,39 +22,51 @@ linkedin_username: jaume-alavedra
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 
+# Additional icon links
+additional_links:
+  - title: My Blog
+    icon: fa-shapes
+    url: https://blog.jamalavedra.me
+# - title: another link
+#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+gtm: "G-E0EPL9SFVN"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
 # About Section
-about_title: Biography
+# about_title: About Me (Use this to override about section title)
 about_profile_image: images/me.jpeg
 about_content: | # this will include new lines to allow paragraphs
   I'm a software engineer with a background in security and in web development. I'm currently working at Onsite.fun, developing a better way to connect distributed teams.
 
-  I also have experience in novel Computer Vision techniques, particularly in deep feature extraction and detection. I have worked at a number of companies gaining teamwork and leadership skills.
-
-# I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I also have experience in novel Computer Vision techniques, particularly in deep feature extraction and detection.
 
 # Projects Section
-# projects_title: Projects
+# projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
-# experience_title: Experience
+# experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-# educaton_title: Education
+# education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me
-
-#more_content: | # this will include new lines to allow paragraphs
-#  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-#   - Rock climbing
-#   - Gaming
-#   - Knitting
+# more_title: A Little More About Me #(Use this to override about more section title)
+# more_content: | # this will include new lines to allow paragraphs
+#  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+#
+#  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: false
 
 # Build settings
-remote_theme: sproogen/resume-theme
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
@@ -60,3 +74,17 @@ sass:
 
 plugins:
   - jekyll-seo-tag
+
+exclude:
+  [
+    "Gemfile",
+    "Gemfile.lock",
+    "node_modules",
+    "vendor/bundle/",
+    "vendor/cache/",
+    "vendor/gems/",
+    "vendor/ruby/",
+    "lib/",
+    "scripts/",
+    "docker-compose.yml",
+  ]
